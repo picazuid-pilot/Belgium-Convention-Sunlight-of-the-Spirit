@@ -1,6 +1,6 @@
 Readme:
 
-De bestanden in deze map zijn geschikt voor digitale verspreiding in PDF op de volgende formaten; A0, A1, A2, A3, en zijn nog niet geoptimaliseerd voor print.
+De bestanden in deze map zijn geschikt voor digitale verspreiding in PDF op het volgende grote formaat; A0, en is nog niet geoptimaliseerd voor print.
 
 PDF voor print gebruiken:
 
@@ -12,7 +12,7 @@ Om de PDF's voor print te gebruiken (aanlevering aan een drukker); graag eerst i
 
 Ga naar https://bleed-cmyk-builderpy-ecaauj8zkjwrhhivxmilqq.streamlit.app/
 
-1. Stel het input formaat in; Afrukformaat A0, A1, A2, A3.
+1. Stel het input formaat in; Afrukformaat A0.
 2. Stel het gewenste druk formaat in; Afrukformaat A0, A1, A2, A3.
 3. Stel de snijrand (Bleed) in mm in. Gedefinieerd door de drukker.
 4. Stel het CMYK Kleurenprofiel in. Gedefinieerd door de drukker.
