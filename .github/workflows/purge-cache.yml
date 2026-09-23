@@ -1,0 +1,15 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  purge-jsdelivr-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gacts/purge-jsdelivr-cache@v1
+        with:
+          url: |
+            https://cdn.jsdelivr.net/gh/picazuid-pilot/Belgium-Convention-Sunlight-of-the-Spirit@main/Sunlight-of-the-Spirit-Program-Digital.png
