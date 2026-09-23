@@ -20,3 +20,9 @@ Ga naar https://bleed-cmyk-builderpy-ecaauj8zkjwrhhivxmilqq.streamlit.app/
 	(de snijrand is een extra aantal mm die aan de rand wordt toegevoegd zodat de machines een marge hebben om het papier te snijden. Een witte snijrand kan dus een witte streep achter laten op de poster als de machine met het papier snijden een mm afwijkt van de rand van de digitaal aangeleverde poster. Geadviseerd is gespiegeld)
 6. Mocht de nieuwe pdf alsnog een witte rand laten zien; dan zit dit waarschijnlijk in het bronbestand. Probeer dit met de optie "verwijder snijtekens" weg te halen.
 
+Programma voor QR:
+Gebruik voor de QR-Code het liefst een dynamische QR generator zoals short.io om te verzekeren dat de geprinte QR code altijd bereikbaar en te wijzigen is indien noodzakelijk.
+
+Huidige link voor het programma (23-09-2026):
+https://cdn.jsdelivr.net/gh/picazuid-pilot/Belgium-Convention-Sunlight-of-the-Spirit@main/Sunlight-of-the-Spirit-Program-Digital.png
+
