@@ -1,4 +1,3 @@
-[Readme.txt](https://github.com/user-attachments/files/32558241/Readme.txt)
 Readme:
 
 De bestanden in deze map zijn geschikt voor digitale verspreiding in PDF op de volgende formaten; A0, A1, A2, A3, en zijn nog niet geoptimaliseerd voor print.
